@@ -34,7 +34,7 @@
 </head>
 <body>
     <h1>Política de Privacidade</h1>
-    <p><strong>Última atualização:</strong> 09/01/2025</p>
+    <p><strong>Última atualização:</strong>30/01/2025</p>
     <p>Esta política de privacidade aplica-se ao aplicativo <strong>Multiloja SisadApp</strong>, desenvolvido e gerenciado por <strong>Horfran Comercial Eletro Móveis</strong>.</p>
     <p>A Horfran Comercial Eletro Móveis respeita sua privacidade e se compromete a proteger os dados pessoais coletados por meio do aplicativo. Esta política de privacidade descreve como coletamos, usamos e protegemos as informações obtidas durante o uso do nosso aplicativo.</p>
 
